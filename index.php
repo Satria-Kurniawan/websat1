@@ -59,7 +59,7 @@
             <div class="col-sm-9">
                 <div class="content-box">
                     <img class="img-set" src="media/Samsung-Galaxy-Fit-e.jpeg">
-                    <h1>Samsung Galaxy Fit</h1>
+                    <h1>Samsung Galaxy-Fit</h1>
                     <p class="content-text">
                         &NonBreakingSpace; &NonBreakingSpace; &NonBreakingSpace;
                         Samsung Galaxy fit hadir dengan desain yang elegan,
