@@ -23,9 +23,8 @@
                 <h3 style="margin-left: 8%;">Smartband Arena</h3>
             </div>
         </div>
-
         <nav class="navbar navbar-expand-sm bg-dark navbar-dark">
-            <ul class="navbar-nav">
+            <ul class="navbar-nav mr-auto">
                 <li class="nav-item">
                     <a class="nav-link" href="#">HOME</a>
                 </li>
@@ -38,13 +37,15 @@
                 <li class="nav-item">
                     <a class="nav-link" href="#">REALME</a>
                 </li>
+            </ul>
+            <ul class="navbar-nav mr-4 ml-auto">
                 <li class="nav-item">
                     <a class="nav-link" href="#">LOGIN</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="form.html">SIGN UP</a>
+                    <a class="nav-link" href="form.php">SIGN UP</a>
                 </li>
-            </ul>
+            </ul>    
         </nav>
 
         <!--<div class="top-nav">
@@ -75,6 +76,9 @@
                         <h1>INFORMASI TERKINI</h3>
                             <p><u><a class="right-nav-text" href="#">Xiaomi Mi Band 5</a></u></p>
                             <p><u><a class="right-nav-text" href="#">Realme Band</a></p></u>
+                            <p><b class="right-nav-text" style="color: black;">TUGAS III :</b></p>
+                            <p><u><a class="right-nav-text" href="fibonacci.php">Deret Fibonacci</a></p></u>
+                            <p><u><a class="right-nav-text" href="aritmatika.php">Barisan Aritmatika</a></p></u>
                     </div>
                 </div>
             </div>
