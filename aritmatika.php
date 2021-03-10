@@ -7,7 +7,6 @@ $hasil = "";
 $baris = "";
 $barishasil = "";
 
-
 if (isset($_POST['submit'])) {
 
     $u1 = $_POST["u1"];
